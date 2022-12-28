@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Chiara (she/her) and I'm currently a student at UNC Chapel Hill. 
+My name is Chiara (she/her) and I'm currently a student at UNC Chapel Hill intending to study Computer Science. 
 
-I'm looking to learn new things and new languages. I'm currently working on learning Swift as a member of the App Team at UNC.
+I'm looking to learn new languages and create unique and complex projects. I work as a TA where I tutor students in fundamental programming concepts and assist with Python assignments. I'm also currently learning Swift as a member of the App Team at UNC.
 
 <!--
 **csabato10/csabato10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
