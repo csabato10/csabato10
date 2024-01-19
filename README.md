@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Chiara (she/her) and I'm currently a student at UNC Chapel Hill intending to study Computer Science. 
+My name is Chiara (she/her) and I'm currently a student at UNC Chapel Hill pursuing a Bachelor of Science in Computer Science with minors in Data Science and Italian. 
 
-I'm looking to learn new languages and create unique and complex projects. I work as a TA where I tutor students in fundamental programming concepts and assist with Python assignments. 
+I'm enjoy learning new programming languages and creating unique and complex projects that challenge my understanding and skills. I have had the opportunity to grow my experience in Software Development through an intership at Ally in Summer 2023. Here I got exposure to skills I had yet to encounter in my classes, including AWS, Agile management, and GitLab CI/CD pipelines.
 
-I also help organize an annual beginner-friendly hackathon at UNC Chapel Hill for women and gender non-conforming students.
+During the semester, I work as a TA where I tutor students in fundamental programming concepts and assist with Python assignments. I also work with a team of organizers to put on Pearl Hacks - an annual beginner-friendly hackathon at UNC Chapel Hill for women and gender non-conforming students.
 
 <!--
 **csabato10/csabato10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
