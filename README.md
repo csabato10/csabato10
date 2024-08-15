@@ -2,7 +2,7 @@
 
 My name is Chiara (she/her) and I'm currently a student at UNC Chapel Hill pursuing a Bachelor of Science in Computer Science with minors in Data Science and Italian. 
 
-I enjoy learning new programming languages and creating unique and complex projects that challenge my understanding and skills. My aspirations going into a career in technology is to work on applications that are going to improve and enhance day-to-day life. 
+I enjoy learning new programming languages and creating unique and complex projects that challenge my understanding and skills. Though a career in technology, I hope to work on applications that improve and enhance day-to-day life. 
 
 
 <!--
