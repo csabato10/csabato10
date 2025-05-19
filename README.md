@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chiara (she/her) and I'm recent graduate from UNC Chapel Hill holding Bachelor of Science in Computer Science with minors in Data Science and Italian. 
+My name is Chiara (she/her) and I'm recent graduate from UNC Chapel Hill with a Bachelor of Science in Computer Science with minors in Data Science and Italian. 
 
 I enjoy learning new programming languages and creating unique and complex projects that challenge my understanding and skills. Though a career in technology, I hope to work on applications that improve and enhance day-to-day life. 
 
